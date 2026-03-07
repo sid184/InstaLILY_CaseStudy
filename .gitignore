@@ -1,0 +1,23 @@
+*__pycache__/
+*.pyc
+*.log
+.DS_Store
+build/
+.env
+backend/.env
+
+# Dependencies
+venv/
+frontend_/node_modules/
+frontend_/.next/
+
+# Exclude submission prep materials
+pdf_pack_IGNORE/
+
+# Claude Code internal files
+.claude/
+
+# Redundant data files (products.json is the processed output)
+data/scraped_parts.json
+data/*.backup
+data/scraper_run.log

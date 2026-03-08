@@ -8,7 +8,7 @@ A conversational support agent for refrigerator and dishwasher replacement parts
 
 ## Architecture
 
-![Architecture Diagram](./Architecture_.png)
+![Architecture Diagram](./Architecture.png)
 
 ### Detailed  Workflow
 
